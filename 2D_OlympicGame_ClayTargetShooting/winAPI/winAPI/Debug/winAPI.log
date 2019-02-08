@@ -1,0 +1,40 @@
+﻿  stdafx.cpp
+  winAPI.cpp
+  utils.cpp
+  player.cpp
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170419_과제02(올림픽 게임)\winapi\winapi\player.cpp(28): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170419_과제02(올림픽 게임)\winapi\winapi\player.cpp(29): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170419_과제02(올림픽 게임)\winapi\winapi\player.cpp(31): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170419_과제02(올림픽 게임)\winapi\winapi\player.cpp(39): warning C4244: '=': 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170419_과제02(올림픽 게임)\winapi\winapi\player.cpp(61): warning C4244: '=': 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170419_과제02(올림픽 게임)\winapi\winapi\player.cpp(121): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170419_과제02(올림픽 게임)\winapi\winapi\player.cpp(131): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170419_과제02(올림픽 게임)\winapi\winapi\player.cpp(139): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170419_과제02(올림픽 게임)\winapi\winapi\player.cpp(181): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: 'sprintf' 선언을 참조하십시오.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170419_과제02(올림픽 게임)\winapi\winapi\player.cpp(199): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: 'sprintf' 선언을 참조하십시오.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170419_과제02(올림픽 게임)\winapi\winapi\player.cpp(204): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: 'sprintf' 선언을 참조하십시오.
+  keyManager.cpp
+  imageManager.cpp
+  image.cpp
+  hitBox.cpp
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170419_과제02(올림픽 게임)\winapi\winapi\hitbox.cpp(23): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170419_과제02(올림픽 게임)\winapi\winapi\hitbox.cpp(47): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  gameStudy.cpp
+  gameNode.cpp
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170419_과제02(올림픽 게임)\winapi\winapi\gamenode.cpp(66): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170419_과제02(올림픽 게임)\winapi\winapi\gamenode.cpp(67): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  bullets.cpp
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170419_과제02(올림픽 게임)\winapi\winapi\bullets.cpp(73): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170419_과제02(올림픽 게임)\winapi\winapi\bullets.cpp(86): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170419_과제02(올림픽 게임)\winapi\winapi\bullets.cpp(89): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170419_과제02(올림픽 게임)\winapi\winapi\bullets.cpp(112): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170419_과제02(올림픽 게임)\winapi\winapi\bullets.cpp(120): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170419_과제02(올림픽 게임)\winapi\winapi\bullets.cpp(128): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170419_과제02(올림픽 게임)\winapi\winapi\bullets.cpp(136): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170419_과제02(올림픽 게임)\winapi\winapi\bullets.cpp(144): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  코드를 생성하고 있습니다...
+  winAPI.vcxproj -> E:\03_Game Developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170419_과제02(올림픽 게임)\winAPI\Debug\winAPI.exe
+  winAPI.vcxproj -> E:\03_Game Developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170419_과제02(올림픽 게임)\winAPI\Debug\winAPI.pdb (Full PDB)
