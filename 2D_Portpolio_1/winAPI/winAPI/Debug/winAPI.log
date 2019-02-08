@@ -1,0 +1,130 @@
+﻿  stdafx.cpp
+  winAPI.cpp
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\firstpage.h(3): warning C4005: 'FRAMECOUNT': 매크로 재정의
+  e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\opening.h(3): note: 'FRAMECOUNT'의 이전 정의를 참조하십시오.
+  utils.cpp
+  powerPage.cpp
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\powerpage.cpp(33): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\powerpage.cpp(34): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\powerpage.cpp(56): warning C4244: '=': 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  playerChar.cpp
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\playerchar.cpp(27): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\playerchar.cpp(28): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\playerchar.cpp(29): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\playerchar.cpp(30): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\playerchar.cpp(46): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\playerchar.cpp(47): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\playerchar.cpp(48): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\playerchar.cpp(49): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\playerchar.cpp(65): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\playerchar.cpp(66): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\playerchar.cpp(67): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\playerchar.cpp(68): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\playerchar.cpp(84): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\playerchar.cpp(85): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\playerchar.cpp(86): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\playerchar.cpp(87): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  opening.cpp
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\opening.cpp(33): warning C4244: '=': 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  keyManager.cpp
+  imageManager.cpp
+  image.cpp
+  gameStudy.cpp
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\firstpage.h(3): warning C4005: 'FRAMECOUNT': 매크로 재정의
+  e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\opening.h(3): note: 'FRAMECOUNT'의 이전 정의를 참조하십시오.
+  gameNode.cpp
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\gamenode.cpp(66): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\gamenode.cpp(67): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  firstPage.cpp
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\firstpage.cpp(51): warning C4244: '=': 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\firstpage.cpp(73): warning C4244: '=': 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  enemyChar.cpp
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\enemychar.cpp(24): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\enemychar.cpp(25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\enemychar.cpp(26): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\enemychar.cpp(43): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\enemychar.cpp(44): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\enemychar.cpp(45): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\enemychar.cpp(62): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\enemychar.cpp(63): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\enemychar.cpp(64): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  battle03.cpp
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\battle03.cpp(72): warning C4244: '=': 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\battle03.cpp(94): warning C4244: '=': 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\battle03.cpp(177): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\battle03.cpp(184): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\battle03.cpp(191): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\battle03.cpp(201): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\battle03.cpp(222): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\battle03.cpp(223): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\battle03.cpp(322): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\battle03.cpp(323): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\battle03.cpp(338): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\battle03.cpp(342): warning C4244: '=': 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\battle03.cpp(352): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\battle03.cpp(353): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\battle03.cpp(362): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\battle03.cpp(363): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\battle03.cpp(372): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\battle03.cpp(373): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\battle03.cpp(469): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\battle03.cpp(470): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  battle02.cpp
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\battle02.cpp(72): warning C4244: '=': 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\battle02.cpp(94): warning C4244: '=': 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\battle02.cpp(177): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\battle02.cpp(184): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\battle02.cpp(191): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\battle02.cpp(201): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\battle02.cpp(222): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\battle02.cpp(223): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\battle02.cpp(322): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\battle02.cpp(323): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\battle02.cpp(338): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\battle02.cpp(342): warning C4244: '=': 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\battle02.cpp(352): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\battle02.cpp(353): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\battle02.cpp(362): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\battle02.cpp(363): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\battle02.cpp(372): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\battle02.cpp(373): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\battle02.cpp(469): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\battle02.cpp(470): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  battle01.cpp
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\battle01.cpp(72): warning C4244: '=': 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\battle01.cpp(94): warning C4244: '=': 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\battle01.cpp(177): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\battle01.cpp(184): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\battle01.cpp(191): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\battle01.cpp(201): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\battle01.cpp(222): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\battle01.cpp(223): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\battle01.cpp(322): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\battle01.cpp(323): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\battle01.cpp(338): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\battle01.cpp(342): warning C4244: '=': 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\battle01.cpp(352): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\battle01.cpp(353): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\battle01.cpp(362): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\battle01.cpp(363): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\battle01.cpp(372): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\battle01.cpp(373): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\battle01.cpp(469): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\kwj in uos\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_potpolio01\winapi\winapi\battle01.cpp(470): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  winAPI.vcxproj -> E:\KWJ in UOS\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_Potpolio01\winAPI\Debug\winAPI.exe
+  winAPI.vcxproj -> E:\KWJ in UOS\10 게임학원\서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170421_Potpolio01\winAPI\Debug\winAPI.pdb (Full PDB)

@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\API framework">
+      <UniqueIdentifier>{ce4ad269-49e1-44f2-bb14-f7304646b2b4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\API framework\manager">
+      <UniqueIdentifier>{7f0738e4-5376-4f2a-8a53-b451ff1842aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\gameStudy">
+      <UniqueIdentifier>{5e3659dc-2cdb-4d70-8955-90ecd5d24c8b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\API framework\image">
+      <UniqueIdentifier>{c8461021-fb26-4511-9003-2898ad0e2a21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\API framework\utils">
+      <UniqueIdentifier>{63ae2194-b1eb-4e6a-bda4-07a132e389d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\gameStudy\potpolio">
+      <UniqueIdentifier>{61c68700-37ef-4f15-b209-eba99e049be5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\gameStudy\potpolio\character">
+      <UniqueIdentifier>{25996948-53e5-458b-a838-fa7378f0284b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\gameStudy\potpolio\page">
+      <UniqueIdentifier>{50b21ccf-9275-4aaa-9c44-1979d76498a5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\gameStudy\potpolio\battlescene">
+      <UniqueIdentifier>{adb32390-f77c-4543-a0ba-bcd9b0dec069}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="commonMacroFunction.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="randomFunction.h">
+      <Filter>소스 파일\API framework\manager</Filter>
+    </ClInclude>
+    <ClInclude Include="singletonBase.h">
+      <Filter>소스 파일\API framework\manager</Filter>
+    </ClInclude>
+    <ClInclude Include="gameNode.h">
+      <Filter>소스 파일\API framework</Filter>
+    </ClInclude>
+    <ClInclude Include="gameStudy.h">
+      <Filter>소스 파일\gameStudy</Filter>
+    </ClInclude>
+    <ClInclude Include="keyManager.h">
+      <Filter>소스 파일\API framework\manager</Filter>
+    </ClInclude>
+    <ClInclude Include="image.h">
+      <Filter>소스 파일\API framework\image</Filter>
+    </ClInclude>
+    <ClInclude Include="imageManager.h">
+      <Filter>소스 파일\API framework\manager</Filter>
+    </ClInclude>
+    <ClInclude Include="utils.h">
+      <Filter>소스 파일\API framework\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="firstPage.h">
+      <Filter>소스 파일\gameStudy\potpolio\page</Filter>
+    </ClInclude>
+    <ClInclude Include="opening.h">
+      <Filter>소스 파일\gameStudy\potpolio\page</Filter>
+    </ClInclude>
+    <ClInclude Include="battle01.h">
+      <Filter>소스 파일\gameStudy\potpolio\battlescene</Filter>
+    </ClInclude>
+    <ClInclude Include="playerChar.h">
+      <Filter>소스 파일\gameStudy\potpolio\character</Filter>
+    </ClInclude>
+    <ClInclude Include="enemyChar.h">
+      <Filter>소스 파일\gameStudy\potpolio\character</Filter>
+    </ClInclude>
+    <ClInclude Include="battle02.h">
+      <Filter>소스 파일\gameStudy\potpolio\battlescene</Filter>
+    </ClInclude>
+    <ClInclude Include="battle03.h">
+      <Filter>소스 파일\gameStudy\potpolio\battlescene</Filter>
+    </ClInclude>
+    <ClInclude Include="powerPage.h">
+      <Filter>소스 파일\gameStudy\potpolio\page</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="winAPI.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="gameNode.cpp">
+      <Filter>소스 파일\API framework</Filter>
+    </ClCompile>
+    <ClCompile Include="gameStudy.cpp">
+      <Filter>소스 파일\gameStudy</Filter>
+    </ClCompile>
+    <ClCompile Include="keyManager.cpp">
+      <Filter>소스 파일\API framework\manager</Filter>
+    </ClCompile>
+    <ClCompile Include="image.cpp">
+      <Filter>소스 파일\API framework\image</Filter>
+    </ClCompile>
+    <ClCompile Include="imageManager.cpp">
+      <Filter>소스 파일\API framework\manager</Filter>
+    </ClCompile>
+    <ClCompile Include="utils.cpp">
+      <Filter>소스 파일\API framework\utils</Filter>
+    </ClCompile>
+    <ClCompile Include="firstPage.cpp">
+      <Filter>소스 파일\gameStudy\potpolio\page</Filter>
+    </ClCompile>
+    <ClCompile Include="opening.cpp">
+      <Filter>소스 파일\gameStudy\potpolio\page</Filter>
+    </ClCompile>
+    <ClCompile Include="battle01.cpp">
+      <Filter>소스 파일\gameStudy\potpolio\battlescene</Filter>
+    </ClCompile>
+    <ClCompile Include="enemyChar.cpp">
+      <Filter>소스 파일\gameStudy\potpolio\character</Filter>
+    </ClCompile>
+    <ClCompile Include="playerChar.cpp">
+      <Filter>소스 파일\gameStudy\potpolio\character</Filter>
+    </ClCompile>
+    <ClCompile Include="battle02.cpp">
+      <Filter>소스 파일\gameStudy\potpolio\battlescene</Filter>
+    </ClCompile>
+    <ClCompile Include="battle03.cpp">
+      <Filter>소스 파일\gameStudy\potpolio\battlescene</Filter>
+    </ClCompile>
+    <ClCompile Include="powerPage.cpp">
+      <Filter>소스 파일\gameStudy\potpolio\page</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
