@@ -1,0 +1,5 @@
+﻿  HeightMap.cpp
+d:\framework\000_portpolio_framework\dx11framework\007_draw\001_enviroments\heightmap.cpp(59): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\framework\000_portpolio_framework\dx11framework\007_draw\001_enviroments\heightmap.cpp(61): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  DX11Framework.vcxproj -> D:\Framework\000_PortPolio_Framework\DX11Framework\x64\Debug\DX11Framework.exe
+  DX11Framework.vcxproj -> D:\Framework\000_PortPolio_Framework\DX11Framework\x64\Debug\DX11Framework.pdb (Full PDB)
