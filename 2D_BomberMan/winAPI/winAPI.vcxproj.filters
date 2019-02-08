@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\API framework">
+      <UniqueIdentifier>{ce4ad269-49e1-44f2-bb14-f7304646b2b4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\API framework\manager">
+      <UniqueIdentifier>{7f0738e4-5376-4f2a-8a53-b451ff1842aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\gameStudy">
+      <UniqueIdentifier>{5e3659dc-2cdb-4d70-8955-90ecd5d24c8b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\API framework\image">
+      <UniqueIdentifier>{c8461021-fb26-4511-9003-2898ad0e2a21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\gameStudy\shooting">
+      <UniqueIdentifier>{ff2cbd1b-8b59-45fa-b268-1766e5a71706}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\API framework\utils">
+      <UniqueIdentifier>{63ae2194-b1eb-4e6a-bda4-07a132e389d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\gameStudy\shooting\enemy">
+      <UniqueIdentifier>{52c803b1-5b56-4ba9-a5c9-f94678d0ddba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\API framework\timer">
+      <UniqueIdentifier>{c1f60ae2-466c-4cf6-a78b-932972274bcc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\gameStudy\bomber">
+      <UniqueIdentifier>{8b972cad-acd4-45c2-8dc7-fd847ef302ca}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="singletonBase.h">
+      <Filter>소스 파일\API framework\manager</Filter>
+    </ClInclude>
+    <ClInclude Include="gameNode.h">
+      <Filter>소스 파일\API framework</Filter>
+    </ClInclude>
+    <ClInclude Include="gameStudy.h">
+      <Filter>소스 파일\gameStudy</Filter>
+    </ClInclude>
+    <ClInclude Include="keyManager.h">
+      <Filter>소스 파일\API framework\manager</Filter>
+    </ClInclude>
+    <ClInclude Include="image.h">
+      <Filter>소스 파일\API framework\image</Filter>
+    </ClInclude>
+    <ClInclude Include="imageManager.h">
+      <Filter>소스 파일\API framework\manager</Filter>
+    </ClInclude>
+    <ClInclude Include="bullets.h">
+      <Filter>소스 파일\gameStudy\shooting</Filter>
+    </ClInclude>
+    <ClInclude Include="utils.h">
+      <Filter>소스 파일\API framework\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="enemy.h">
+      <Filter>소스 파일\gameStudy\shooting\enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="minion.h">
+      <Filter>소스 파일\gameStudy\shooting\enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="enemyManager.h">
+      <Filter>소스 파일\gameStudy\shooting\enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="saveLoadTest.h">
+      <Filter>소스 파일\gameStudy</Filter>
+    </ClInclude>
+    <ClInclude Include="timer.h">
+      <Filter>소스 파일\API framework\timer</Filter>
+    </ClInclude>
+    <ClInclude Include="timeManager.h">
+      <Filter>소스 파일\API framework\manager</Filter>
+    </ClInclude>
+    <ClInclude Include="commonMacroFunction.h">
+      <Filter>소스 파일\API framework\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="randomFunction.h">
+      <Filter>소스 파일\API framework\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="tile.h">
+      <Filter>소스 파일\gameStudy\bomber</Filter>
+    </ClInclude>
+    <ClInclude Include="player.h">
+      <Filter>소스 파일\gameStudy\bomber</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="gameNode.cpp">
+      <Filter>소스 파일\API framework</Filter>
+    </ClCompile>
+    <ClCompile Include="gameStudy.cpp">
+      <Filter>소스 파일\gameStudy</Filter>
+    </ClCompile>
+    <ClCompile Include="keyManager.cpp">
+      <Filter>소스 파일\API framework\manager</Filter>
+    </ClCompile>
+    <ClCompile Include="image.cpp">
+      <Filter>소스 파일\API framework\image</Filter>
+    </ClCompile>
+    <ClCompile Include="imageManager.cpp">
+      <Filter>소스 파일\API framework\manager</Filter>
+    </ClCompile>
+    <ClCompile Include="bullets.cpp">
+      <Filter>소스 파일\gameStudy\shooting</Filter>
+    </ClCompile>
+    <ClCompile Include="utils.cpp">
+      <Filter>소스 파일\API framework\utils</Filter>
+    </ClCompile>
+    <ClCompile Include="enemy.cpp">
+      <Filter>소스 파일\gameStudy\shooting\enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="minion.cpp">
+      <Filter>소스 파일\gameStudy\shooting\enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="enemyManager.cpp">
+      <Filter>소스 파일\gameStudy\shooting\enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="saveLoadTest.cpp">
+      <Filter>소스 파일\gameStudy</Filter>
+    </ClCompile>
+    <ClCompile Include="timer.cpp">
+      <Filter>소스 파일\API framework\timer</Filter>
+    </ClCompile>
+    <ClCompile Include="timeManager.cpp">
+      <Filter>소스 파일\API framework\manager</Filter>
+    </ClCompile>
+    <ClCompile Include="winAPI.cpp">
+      <Filter>헤더 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>헤더 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="tile.cpp">
+      <Filter>소스 파일\gameStudy\bomber</Filter>
+    </ClCompile>
+    <ClCompile Include="player.cpp">
+      <Filter>소스 파일\gameStudy\bomber</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
