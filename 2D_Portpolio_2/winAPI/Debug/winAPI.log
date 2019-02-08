@@ -1,0 +1,158 @@
+﻿  stdafx.cpp
+  button.cpp
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\button.cpp(28): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\button.cpp(34): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\button.cpp(40): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\button.cpp(51): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\button.cpp(287): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\button.cpp(290): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\button.cpp(293): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\button.cpp(393): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\button.cpp(396): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\button.cpp(399): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\button.cpp(424): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\button.cpp(427): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\button.cpp(430): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\button.cpp(455): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\button.cpp(458): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\button.cpp(495): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\button.cpp(505): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\button.cpp(516): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\button.cpp(527): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\button.cpp(535): warning C4244: '=': 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\button.cpp(615): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\button.cpp(618): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\button.cpp(621): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\button.cpp(624): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\button.cpp(627): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\button.cpp(630): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\button.cpp(633): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\button.cpp(636): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\button.cpp(639): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\button.cpp(648): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\button.cpp(928): warning C4244: '=': 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  database.cpp
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\database.cpp(16): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\database.cpp(134): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\database.cpp(174): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\database.cpp(184): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\database.cpp(756): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\database.cpp(799): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  effect.cpp
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\effect.cpp(97): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\effect.cpp(103): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\effect.cpp(110): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\effect.cpp(116): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  enemy.cpp
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\player.h(126): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\enemy.cpp(41): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\enemy.cpp(68): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\enemy.cpp(162): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\enemy.cpp(188): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\enemy.cpp(201): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\enemy.cpp(317): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\enemy.cpp(461): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\enemy.cpp(463): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\enemy.cpp(630): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\enemy.cpp(668): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\enemy.cpp(670): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\enemy.cpp(837): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\enemy.cpp(867): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\enemy.cpp(868): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\enemy.cpp(872): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\enemy.cpp(873): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\enemy.cpp(885): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\enemy.cpp(886): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\enemy.cpp(890): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\enemy.cpp(891): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\enemy.cpp(934): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\enemy.cpp(974): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\enemy.cpp(1100): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\enemy.cpp(1123): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\enemy.cpp(1153): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\enemy.cpp(1191): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\enemy.cpp(1326): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\enemy.cpp(1332): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\enemy.cpp(1333): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\enemy.cpp(1347): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\enemy.cpp(1348): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  field.cpp
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\field.cpp(87): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\field.cpp(91): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\field.cpp(93): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\field.cpp(112): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\field.cpp(116): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  gameNode.cpp
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\gamenode.cpp(72): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\gamenode.cpp(73): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  gameStudy.cpp
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\player.h(126): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\gamestudy.cpp(114): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\gamestudy.cpp(115): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  image.cpp
+  imageManager.cpp
+  keyManager.cpp
+  player.cpp
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\player.h(126): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\player.cpp(64): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\player.cpp(76): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\player.cpp(78): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\player.cpp(169): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\player.cpp(193): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\player.cpp(218): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\player.cpp(242): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\player.cpp(270): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\player.cpp(294): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\player.cpp(334): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\player.cpp(357): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\player.cpp(380): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\player.cpp(405): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\player.cpp(429): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\player.cpp(452): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\player.cpp(474): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\player.cpp(496): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\player.cpp(529): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\player.cpp(549): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\player.cpp(592): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\player.cpp(592): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\player.cpp(648): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\player.cpp(802): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\player.cpp(806): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\player.cpp(816): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\player.cpp(826): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\player.cpp(836): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+  timeManager.cpp
+  timer.cpp
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\timer.cpp(95): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+  utils.cpp
+  winAPI.cpp
+d:\06_gamedev\00_github\privateportpolio\2d_portpolio_2\winapi\player.h(126): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  winAPI.vcxproj -> D:\06_GameDev\00_GitHub\PrivatePortpolio\2D_Portpolio_2\winAPI\Debug\winAPI.exe
