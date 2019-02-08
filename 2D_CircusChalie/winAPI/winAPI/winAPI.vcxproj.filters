@@ -1,0 +1,387 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\API framework">
+      <UniqueIdentifier>{ce4ad269-49e1-44f2-bb14-f7304646b2b4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\API framework\manager">
+      <UniqueIdentifier>{7f0738e4-5376-4f2a-8a53-b451ff1842aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\gameStudy">
+      <UniqueIdentifier>{5e3659dc-2cdb-4d70-8955-90ecd5d24c8b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\API framework\image">
+      <UniqueIdentifier>{c8461021-fb26-4511-9003-2898ad0e2a21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\gameStudy\shooting">
+      <UniqueIdentifier>{ff2cbd1b-8b59-45fa-b268-1766e5a71706}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\API framework\utils">
+      <UniqueIdentifier>{63ae2194-b1eb-4e6a-bda4-07a132e389d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\gameStudy\shooting\enemy">
+      <UniqueIdentifier>{52c803b1-5b56-4ba9-a5c9-f94678d0ddba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\API framework\timer">
+      <UniqueIdentifier>{c1f60ae2-466c-4cf6-a78b-932972274bcc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\API framework\progressBar">
+      <UniqueIdentifier>{c6d1bd36-280d-4080-9585-1ed9ea33d72a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\gameStudy\starWarsScene">
+      <UniqueIdentifier>{227ea9be-9576-4bb7-9e01-5004baa22046}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\API framework\button">
+      <UniqueIdentifier>{62cb7730-37c2-446d-b35b-8f787443a08f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\gameStudy\starWarsScene\database">
+      <UniqueIdentifier>{85f500db-97b9-4733-aee0-39878bb82514}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\API framework\frameAnimation">
+      <UniqueIdentifier>{1dfb2efd-fc3e-45a7-b371-b831d8458ece}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\gameStudy\animationTest">
+      <UniqueIdentifier>{b9091f8d-18e6-4590-91b4-eac7e26eb8b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\gameStudy\starWarsScene\space">
+      <UniqueIdentifier>{3453692f-82bd-43b5-8fc2-f6386ebabbb7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\API framework\animation">
+      <UniqueIdentifier>{3cd03d94-fcdc-4e10-bda6-f5802cd1be6c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\gameStudy\soundTestScene">
+      <UniqueIdentifier>{53774d15-221f-4387-8d1d-9e68bb74fada}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\gameStudy\ghostsnGoblinsScene">
+      <UniqueIdentifier>{44a7600b-67e7-46be-b494-1325ccd9e7de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\gameStudy\ghostsnGoblinsScene\jump">
+      <UniqueIdentifier>{e02223ff-5758-4a4f-96db-be994a637a8c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\gameStudy\iniTestScene">
+      <UniqueIdentifier>{157c3aee-0334-416a-a94e-cd364d5fcf93}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\gameStudy\circus">
+      <UniqueIdentifier>{f5845c56-34e8-43ac-85f3-acab4291ddeb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\gameStudy\circus\scene1">
+      <UniqueIdentifier>{38711280-81ac-4eca-8ee7-06217fc49b1a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\gameStudy\circus\scene2">
+      <UniqueIdentifier>{1cfd8f32-0d02-4486-a6d6-900e7d30b33f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\gameStudy\circus\scene1\scene1Jump">
+      <UniqueIdentifier>{2344a2e3-20c7-4469-be76-d8ef38290618}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\gameStudy\circus\scene2\scene2Jump">
+      <UniqueIdentifier>{39921427-edf9-47e0-b4c2-6335616ea3be}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="commonMacroFunction.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="randomFunction.h">
+      <Filter>소스 파일\API framework\manager</Filter>
+    </ClInclude>
+    <ClInclude Include="singletonBase.h">
+      <Filter>소스 파일\API framework\manager</Filter>
+    </ClInclude>
+    <ClInclude Include="gameNode.h">
+      <Filter>소스 파일\API framework</Filter>
+    </ClInclude>
+    <ClInclude Include="gameStudy.h">
+      <Filter>소스 파일\gameStudy</Filter>
+    </ClInclude>
+    <ClInclude Include="keyManager.h">
+      <Filter>소스 파일\API framework\manager</Filter>
+    </ClInclude>
+    <ClInclude Include="image.h">
+      <Filter>소스 파일\API framework\image</Filter>
+    </ClInclude>
+    <ClInclude Include="imageManager.h">
+      <Filter>소스 파일\API framework\manager</Filter>
+    </ClInclude>
+    <ClInclude Include="player.h">
+      <Filter>소스 파일\gameStudy\shooting</Filter>
+    </ClInclude>
+    <ClInclude Include="bullets.h">
+      <Filter>소스 파일\gameStudy\shooting</Filter>
+    </ClInclude>
+    <ClInclude Include="utils.h">
+      <Filter>소스 파일\API framework\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="flame.h">
+      <Filter>소스 파일\gameStudy\shooting</Filter>
+    </ClInclude>
+    <ClInclude Include="enemy.h">
+      <Filter>소스 파일\gameStudy\shooting\enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="minion.h">
+      <Filter>소스 파일\gameStudy\shooting\enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="enemyManager.h">
+      <Filter>소스 파일\gameStudy\shooting\enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="saveLoadTest.h">
+      <Filter>소스 파일\gameStudy</Filter>
+    </ClInclude>
+    <ClInclude Include="timer.h">
+      <Filter>소스 파일\API framework\timer</Filter>
+    </ClInclude>
+    <ClInclude Include="timeManager.h">
+      <Filter>소스 파일\API framework\manager</Filter>
+    </ClInclude>
+    <ClInclude Include="txtDataManager.h">
+      <Filter>소스 파일\API framework\manager</Filter>
+    </ClInclude>
+    <ClInclude Include="progressBar.h">
+      <Filter>소스 파일\API framework\progressBar</Filter>
+    </ClInclude>
+    <ClInclude Include="sceneManager.h">
+      <Filter>소스 파일\API framework\manager</Filter>
+    </ClInclude>
+    <ClInclude Include="starWarsScene.h">
+      <Filter>소스 파일\gameStudy\starWarsScene</Filter>
+    </ClInclude>
+    <ClInclude Include="ship.h">
+      <Filter>소스 파일\gameStudy\starWarsScene</Filter>
+    </ClInclude>
+    <ClInclude Include="battle.h">
+      <Filter>소스 파일\gameStudy\starWarsScene</Filter>
+    </ClInclude>
+    <ClInclude Include="carrier.h">
+      <Filter>소스 파일\gameStudy\starWarsScene</Filter>
+    </ClInclude>
+    <ClInclude Include="button.h">
+      <Filter>소스 파일\API framework\button</Filter>
+    </ClInclude>
+    <ClInclude Include="selectScene.h">
+      <Filter>소스 파일\gameStudy\starWarsScene</Filter>
+    </ClInclude>
+    <ClInclude Include="database.h">
+      <Filter>소스 파일\gameStudy\starWarsScene\database</Filter>
+    </ClInclude>
+    <ClInclude Include="frameAnimation.h">
+      <Filter>소스 파일\API framework\frameAnimation</Filter>
+    </ClInclude>
+    <ClInclude Include="animationTestScene.h">
+      <Filter>소스 파일\gameStudy\animationTest</Filter>
+    </ClInclude>
+    <ClInclude Include="frameAnimationTest.h">
+      <Filter>소스 파일\gameStudy\animationTest</Filter>
+    </ClInclude>
+    <ClInclude Include="shipManager.h">
+      <Filter>소스 파일\gameStudy\starWarsScene</Filter>
+    </ClInclude>
+    <ClInclude Include="space.h">
+      <Filter>소스 파일\gameStudy\starWarsScene\space</Filter>
+    </ClInclude>
+    <ClInclude Include="frameAnimationManager.h">
+      <Filter>소스 파일\API framework\manager</Filter>
+    </ClInclude>
+    <ClInclude Include="animation.h">
+      <Filter>소스 파일\API framework\animation</Filter>
+    </ClInclude>
+    <ClInclude Include="animationTest.h">
+      <Filter>소스 파일\gameStudy\animationTest</Filter>
+    </ClInclude>
+    <ClInclude Include="soundManager.h">
+      <Filter>소스 파일\API framework\manager</Filter>
+    </ClInclude>
+    <ClInclude Include="soundTestScene.h">
+      <Filter>소스 파일\gameStudy\soundTestScene</Filter>
+    </ClInclude>
+    <ClInclude Include="keyAnimationManager.h">
+      <Filter>소스 파일\API framework\manager</Filter>
+    </ClInclude>
+    <ClInclude Include="ghostsnGoblinsScene.h">
+      <Filter>소스 파일\gameStudy\ghostsnGoblinsScene</Filter>
+    </ClInclude>
+    <ClInclude Include="knight.h">
+      <Filter>소스 파일\gameStudy\ghostsnGoblinsScene</Filter>
+    </ClInclude>
+    <ClInclude Include="jump.h">
+      <Filter>소스 파일\gameStudy\ghostsnGoblinsScene\jump</Filter>
+    </ClInclude>
+    <ClInclude Include="iniTestScene.h">
+      <Filter>소스 파일\gameStudy\iniTestScene</Filter>
+    </ClInclude>
+    <ClInclude Include="circusSceneOne.h">
+      <Filter>소스 파일\gameStudy\circus\scene1</Filter>
+    </ClInclude>
+    <ClInclude Include="circusSceneTwo.h">
+      <Filter>소스 파일\gameStudy\circus\scene2</Filter>
+    </ClInclude>
+    <ClInclude Include="circusJump.h">
+      <Filter>소스 파일\gameStudy\circus\scene1\scene1Jump</Filter>
+    </ClInclude>
+    <ClInclude Include="scene2Jump.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="winAPI.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="gameNode.cpp">
+      <Filter>소스 파일\API framework</Filter>
+    </ClCompile>
+    <ClCompile Include="gameStudy.cpp">
+      <Filter>소스 파일\gameStudy</Filter>
+    </ClCompile>
+    <ClCompile Include="image.cpp">
+      <Filter>소스 파일\API framework\image</Filter>
+    </ClCompile>
+    <ClCompile Include="imageManager.cpp">
+      <Filter>소스 파일\API framework\manager</Filter>
+    </ClCompile>
+    <ClCompile Include="player.cpp">
+      <Filter>소스 파일\gameStudy\shooting</Filter>
+    </ClCompile>
+    <ClCompile Include="bullets.cpp">
+      <Filter>소스 파일\gameStudy\shooting</Filter>
+    </ClCompile>
+    <ClCompile Include="utils.cpp">
+      <Filter>소스 파일\API framework\utils</Filter>
+    </ClCompile>
+    <ClCompile Include="flame.cpp">
+      <Filter>소스 파일\gameStudy\shooting</Filter>
+    </ClCompile>
+    <ClCompile Include="enemy.cpp">
+      <Filter>소스 파일\gameStudy\shooting\enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="minion.cpp">
+      <Filter>소스 파일\gameStudy\shooting\enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="enemyManager.cpp">
+      <Filter>소스 파일\gameStudy\shooting\enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="gameStudy+collision.cpp">
+      <Filter>소스 파일\gameStudy</Filter>
+    </ClCompile>
+    <ClCompile Include="saveLoadTest.cpp">
+      <Filter>소스 파일\gameStudy</Filter>
+    </ClCompile>
+    <ClCompile Include="timer.cpp">
+      <Filter>소스 파일\API framework\timer</Filter>
+    </ClCompile>
+    <ClCompile Include="timeManager.cpp">
+      <Filter>소스 파일\API framework\manager</Filter>
+    </ClCompile>
+    <ClCompile Include="txtDataManager.cpp">
+      <Filter>소스 파일\API framework\manager</Filter>
+    </ClCompile>
+    <ClCompile Include="progressBar.cpp">
+      <Filter>소스 파일\API framework\progressBar</Filter>
+    </ClCompile>
+    <ClCompile Include="sceneManager.cpp">
+      <Filter>소스 파일\API framework\manager</Filter>
+    </ClCompile>
+    <ClCompile Include="starWarsScene.cpp">
+      <Filter>소스 파일\gameStudy\starWarsScene</Filter>
+    </ClCompile>
+    <ClCompile Include="ship.cpp">
+      <Filter>소스 파일\gameStudy\starWarsScene</Filter>
+    </ClCompile>
+    <ClCompile Include="battle.cpp">
+      <Filter>소스 파일\gameStudy\starWarsScene</Filter>
+    </ClCompile>
+    <ClCompile Include="carrier.cpp">
+      <Filter>소스 파일\gameStudy\starWarsScene</Filter>
+    </ClCompile>
+    <ClCompile Include="button.cpp">
+      <Filter>소스 파일\API framework\button</Filter>
+    </ClCompile>
+    <ClCompile Include="selectScene.cpp">
+      <Filter>소스 파일\gameStudy\starWarsScene</Filter>
+    </ClCompile>
+    <ClCompile Include="database.cpp">
+      <Filter>소스 파일\gameStudy\starWarsScene\database</Filter>
+    </ClCompile>
+    <ClCompile Include="frameAnimation.cpp">
+      <Filter>소스 파일\API framework\frameAnimation</Filter>
+    </ClCompile>
+    <ClCompile Include="animationTestScene.cpp">
+      <Filter>소스 파일\gameStudy\animationTest</Filter>
+    </ClCompile>
+    <ClCompile Include="frameAnimationTest.cpp">
+      <Filter>소스 파일\gameStudy\animationTest</Filter>
+    </ClCompile>
+    <ClCompile Include="shipManager.cpp">
+      <Filter>소스 파일\gameStudy\starWarsScene</Filter>
+    </ClCompile>
+    <ClCompile Include="space.cpp">
+      <Filter>소스 파일\gameStudy\starWarsScene\space</Filter>
+    </ClCompile>
+    <ClCompile Include="frameAnimationManager.cpp">
+      <Filter>소스 파일\API framework\manager</Filter>
+    </ClCompile>
+    <ClCompile Include="keyManager.cpp">
+      <Filter>소스 파일\API framework\manager</Filter>
+    </ClCompile>
+    <ClCompile Include="animation.cpp">
+      <Filter>소스 파일\API framework\animation</Filter>
+    </ClCompile>
+    <ClCompile Include="animationTest.cpp">
+      <Filter>소스 파일\gameStudy\animationTest</Filter>
+    </ClCompile>
+    <ClCompile Include="soundManager.cpp">
+      <Filter>소스 파일\API framework\manager</Filter>
+    </ClCompile>
+    <ClCompile Include="soundTestScene.cpp">
+      <Filter>소스 파일\gameStudy\soundTestScene</Filter>
+    </ClCompile>
+    <ClCompile Include="keyAnimationManager.cpp">
+      <Filter>소스 파일\API framework\manager</Filter>
+    </ClCompile>
+    <ClCompile Include="ghostsnGoblinsScene.cpp">
+      <Filter>소스 파일\gameStudy\ghostsnGoblinsScene</Filter>
+    </ClCompile>
+    <ClCompile Include="knight.cpp">
+      <Filter>소스 파일\gameStudy\ghostsnGoblinsScene</Filter>
+    </ClCompile>
+    <ClCompile Include="jump.cpp">
+      <Filter>소스 파일\gameStudy\ghostsnGoblinsScene\jump</Filter>
+    </ClCompile>
+    <ClCompile Include="iniTestScene.cpp">
+      <Filter>소스 파일\gameStudy\iniTestScene</Filter>
+    </ClCompile>
+    <ClCompile Include="circusSceneOne.cpp">
+      <Filter>소스 파일\gameStudy\circus\scene1</Filter>
+    </ClCompile>
+    <ClCompile Include="circusSceneTwo.cpp">
+      <Filter>소스 파일\gameStudy\circus\scene2</Filter>
+    </ClCompile>
+    <ClCompile Include="circusJump.cpp">
+      <Filter>소스 파일\gameStudy\circus\scene1\scene1Jump</Filter>
+    </ClCompile>
+    <ClCompile Include="scene2Jump.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,177 @@
+﻿  stdafx.cpp
+  winAPI.cpp
+  utils.cpp
+  txtDataManager.cpp
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\txtdatamanager.cpp(50): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\txtdatamanager.cpp(53): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\txtdatamanager.cpp(53): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 'strcat' 선언을 참조하십시오.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\txtdatamanager.cpp(67): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: 'strtok' 선언을 참조하십시오.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\txtdatamanager.cpp(70): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: 'strtok' 선언을 참조하십시오.
+  timer.cpp
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\timer.cpp(95): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+  timeManager.cpp
+  starWarsScene.cpp
+  space.cpp
+  soundTestScene.cpp
+  soundManager.cpp
+  shipManager.cpp
+  ship.cpp
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\ship.cpp(17): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\ship.cpp(18): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\ship.cpp(20): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\ship.cpp(22): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\ship.cpp(57): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\ship.cpp(61): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\ship.cpp(65): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\ship.cpp(110): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  selectScene.cpp
+  sceneManager.cpp
+  scene2Jump.cpp
+  saveLoadTest.cpp
+  progressBar.cpp
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\progressbar.h(23): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\progressbar.h(24): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\progressbar.cpp(18): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\progressbar.cpp(19): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\progressbar.cpp(24): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\progressbar.cpp(26): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\progressbar.cpp(35): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\progressbar.cpp(36): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\progressbar.cpp(41): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\progressbar.cpp(43): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\progressbar.cpp(57): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\progressbar.cpp(64): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  player.cpp
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\player.cpp(25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\player.cpp(64): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\player.cpp(65): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\player.cpp(66): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\player.cpp(67): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\player.cpp(75): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\player.cpp(76): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\player.cpp(77): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\player.cpp(78): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\player.cpp(108): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\player.cpp(64): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: 'itoa' 선언을 참조하십시오.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\player.cpp(65): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: 'itoa' 선언을 참조하십시오.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\player.cpp(66): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: 'itoa' 선언을 참조하십시오.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\player.cpp(67): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: 'itoa' 선언을 참조하십시오.
+  minion.cpp
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\progressbar.h(23): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\progressbar.h(24): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  knight.cpp
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\knight.cpp(25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\knight.cpp(230): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\knight.cpp(238): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\knight.cpp(242): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  keyManager.cpp
+  코드를 생성하고 있습니다...
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\txtdatamanager.cpp(56): warning C4172: 지역 변수 또는 임시: str의 주소를 반환하고 있습니다.
+  컴파일하고 있습니다...
+  keyAnimationManager.cpp
+  jump.cpp
+  iniTestScene.cpp
+  imageManager.cpp
+  image.cpp
+  ghostsnGoblinsScene.cpp
+  gameStudy.cpp
+  gameStudy+collision.cpp
+  gameNode.cpp
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\gamenode.cpp(103): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\gamenode.cpp(104): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  frameAnimationTest.cpp
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\frameanimationtest.cpp(34): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\frameanimationtest.cpp(38): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+  frameAnimationManager.cpp
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\frameanimationmanager.cpp(36): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  frameAnimation.cpp
+  flame.cpp
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\flame.cpp(39): warning C4244: '=': 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\flame.cpp(47): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  enemyManager.cpp
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\progressbar.h(23): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\progressbar.h(24): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\enemymanager.cpp(76): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  enemy.cpp
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\progressbar.h(23): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\progressbar.h(24): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\enemy.cpp(76): warning C4244: '=': 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  database.cpp
+  circusSceneTwo.cpp
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\circusscenetwo.cpp(48): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\circusscenetwo.cpp(108): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  circusSceneOne.cpp
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\circussceneone.cpp(91): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\circussceneone.cpp(205): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\circussceneone.cpp(211): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\circussceneone.cpp(224): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\circussceneone.cpp(241): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\circussceneone.cpp(247): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\circussceneone.cpp(256): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\circussceneone.cpp(279): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\circussceneone.cpp(286): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\circussceneone.cpp(288): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\circussceneone.cpp(292): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\circussceneone.cpp(295): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\circussceneone.cpp(300): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\circussceneone.cpp(305): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\circussceneone.cpp(316): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\circussceneone.cpp(329): warning C4244: '=': 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\circussceneone.cpp(299): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\circussceneone.cpp(388): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\circussceneone.cpp(396): warning C4244: '=': 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\circussceneone.cpp(412): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\circussceneone.cpp(413): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\circussceneone.cpp(414): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\circussceneone.cpp(423): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\circussceneone.cpp(427): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\circussceneone.cpp(428): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\circussceneone.cpp(429): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\circussceneone.cpp(440): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\circussceneone.cpp(457): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\circussceneone.cpp(475): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\circussceneone.cpp(476): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\circussceneone.cpp(477): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  circusJump.cpp
+  carrier.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  button.cpp
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\button.cpp(26): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\button.cpp(27): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\button.cpp(51): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\button.cpp(52): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\button.cpp(77): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\button.cpp(78): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  bullets.cpp
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\bullets.cpp(73): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\bullets.cpp(87): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\bullets.cpp(153): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\bullets.cpp(165): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\bullets.cpp(177): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\bullets.cpp(252): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\bullets.cpp(263): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\bullets.cpp(274): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\bullets.cpp(294): warning C4244: '=': 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  battle.cpp
+  animationTestScene.cpp
+  animationTest.cpp
+  animation.cpp
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\animation.cpp(65): warning C4800: 'BOOL': 'true' 또는 'false'로 bool 값을 강제하고 있습니다(성능 경고).
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\animation.cpp(117): warning C4800: 'BOOL': 'true' 또는 'false'로 bool 값을 강제하고 있습니다(성능 경고).
+e:\03_game developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winapi\winapi\animation.cpp(132): warning C4800: 'BOOL': 'true' 또는 'false'로 bool 값을 강제하고 있습니다(성능 경고).
+  코드를 생성하고 있습니다...
+  winAPI.vcxproj -> E:\03_Game Developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winAPI\Debug\winAPI.exe
+  winAPI.vcxproj -> E:\03_Game Developement\00_서울게임 아카데미\01_전반기\02. 이건희 선생님\02. 과제\170612_과제(서커스 찰리)\winAPI\Debug\winAPI.pdb (Full PDB)
