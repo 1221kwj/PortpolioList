@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Weapon_Sword
+  - Weapon_Bow
+  - Weapon_Arrow
+  - PlayerCamera
+  - TagLight
+  - Fire
+  - Effect
+  - Projectile
+  - BlacksmithText
+  - Enemy
+  - Knight
+  - NPC
+  - Terrain
+  - FailureCondition
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - FireLayer
+  - Enemy
+  - Terrain
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

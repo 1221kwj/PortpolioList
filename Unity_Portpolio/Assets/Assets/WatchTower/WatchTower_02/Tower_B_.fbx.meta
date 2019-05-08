@@ -1,0 +1,421 @@
+fileFormatVersion: 2
+guid: 6db8aad5de5de41419dc7093303ad52f
+timeCreated: 1552630824
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: ' Walk area '
+    100002: Cube
+    100004: Cutter
+    100006: 'Ladder '
+    100008: Ladder .001
+    100010: Ladder .002
+    100012: Ladder .003
+    100014: Ladder .004
+    100016: Ladder .005
+    100018: Ladder .006
+    100020: Ladder .007
+    100022: Ladder .008
+    100024: Ladder .009
+    100026: Ladder .010
+    100028: Ladder .011
+    100030: Ladder .012
+    100032: Ladder .013
+    100034: Ladder .014
+    100036: Ladder .015
+    100038: Ladder .016
+    100040: 'legs '
+    100042: legs .001
+    100044: legs .002
+    100046: legs .003
+    100048: 'Shed support '
+    100050: Shed support .001
+    100052: Shed support .002
+    100054: Shed support .003
+    100056: 'Support  Top '
+    100058: Support  Top .001
+    100060: Support  Top .002
+    100062: top .001
+    100064: //RootNode
+    100066: 'wall E '
+    100068: wall E .001
+    100070: wall E .002
+    100072: wall E .003
+    100074: wall E .004
+    100076: wall E .005
+    100078: 'Wallee support '
+    100080: Wallee support .001
+    100082: Wallee support .002
+    100084: Wallee support .003
+    100086: Wallee support .004
+    100088: Wallee support .005
+    100090: Wallee support .006
+    100092: Wallee support .007
+    100094: Wallee support .008
+    100096: Wallee support .009
+    100098: Wallee support .010
+    100100: Wallee support .011
+    100102: Wallee support .012
+    100104: Wallee support .013
+    100106: Wallee support .014
+    100108: Wallee support .015
+    100110: Wallee support .016
+    100112: Wallee support .017
+    100114: Wallee support .018
+    100116: Wallee support .019
+    100118: Wallee support .020
+    100120: Wallee support .021
+    100122: Wallee support .022
+    100124: Wallee support .023
+    100126: Wallee support .024
+    100128: Wallee support .025
+    400000: ' Walk area '
+    400002: Cube
+    400004: Cutter
+    400006: 'Ladder '
+    400008: Ladder .001
+    400010: Ladder .002
+    400012: Ladder .003
+    400014: Ladder .004
+    400016: Ladder .005
+    400018: Ladder .006
+    400020: Ladder .007
+    400022: Ladder .008
+    400024: Ladder .009
+    400026: Ladder .010
+    400028: Ladder .011
+    400030: Ladder .012
+    400032: Ladder .013
+    400034: Ladder .014
+    400036: Ladder .015
+    400038: Ladder .016
+    400040: 'legs '
+    400042: legs .001
+    400044: legs .002
+    400046: legs .003
+    400048: 'Shed support '
+    400050: Shed support .001
+    400052: Shed support .002
+    400054: Shed support .003
+    400056: 'Support  Top '
+    400058: Support  Top .001
+    400060: Support  Top .002
+    400062: top .001
+    400064: //RootNode
+    400066: 'wall E '
+    400068: wall E .001
+    400070: wall E .002
+    400072: wall E .003
+    400074: wall E .004
+    400076: wall E .005
+    400078: 'Wallee support '
+    400080: Wallee support .001
+    400082: Wallee support .002
+    400084: Wallee support .003
+    400086: Wallee support .004
+    400088: Wallee support .005
+    400090: Wallee support .006
+    400092: Wallee support .007
+    400094: Wallee support .008
+    400096: Wallee support .009
+    400098: Wallee support .010
+    400100: Wallee support .011
+    400102: Wallee support .012
+    400104: Wallee support .013
+    400106: Wallee support .014
+    400108: Wallee support .015
+    400110: Wallee support .016
+    400112: Wallee support .017
+    400114: Wallee support .018
+    400116: Wallee support .019
+    400118: Wallee support .020
+    400120: Wallee support .021
+    400122: Wallee support .022
+    400124: Wallee support .023
+    400126: Wallee support .024
+    400128: Wallee support .025
+    2100000: Wood_Texture_C
+    2100002: Wood_Texture_A
+    2300000: ' Walk area '
+    2300002: Cube
+    2300004: Cutter
+    2300006: 'Ladder '
+    2300008: Ladder .001
+    2300010: Ladder .002
+    2300012: Ladder .003
+    2300014: Ladder .004
+    2300016: Ladder .005
+    2300018: Ladder .006
+    2300020: Ladder .007
+    2300022: Ladder .008
+    2300024: Ladder .009
+    2300026: Ladder .010
+    2300028: Ladder .011
+    2300030: Ladder .012
+    2300032: Ladder .013
+    2300034: Ladder .014
+    2300036: Ladder .015
+    2300038: Ladder .016
+    2300040: 'legs '
+    2300042: legs .001
+    2300044: legs .002
+    2300046: legs .003
+    2300048: 'Shed support '
+    2300050: Shed support .001
+    2300052: Shed support .002
+    2300054: Shed support .003
+    2300056: 'Support  Top '
+    2300058: Support  Top .001
+    2300060: Support  Top .002
+    2300062: top .001
+    2300064: 'wall E '
+    2300066: wall E .001
+    2300068: wall E .002
+    2300070: wall E .003
+    2300072: wall E .004
+    2300074: wall E .005
+    2300076: 'Wallee support '
+    2300078: Wallee support .001
+    2300080: Wallee support .002
+    2300082: Wallee support .003
+    2300084: Wallee support .004
+    2300086: Wallee support .005
+    2300088: Wallee support .006
+    2300090: Wallee support .007
+    2300092: Wallee support .008
+    2300094: Wallee support .009
+    2300096: Wallee support .010
+    2300098: Wallee support .011
+    2300100: Wallee support .012
+    2300102: Wallee support .013
+    2300104: Wallee support .014
+    2300106: Wallee support .015
+    2300108: Wallee support .016
+    2300110: Wallee support .017
+    2300112: Wallee support .018
+    2300114: Wallee support .019
+    2300116: Wallee support .020
+    2300118: Wallee support .021
+    2300120: Wallee support .022
+    2300122: Wallee support .023
+    2300124: Wallee support .024
+    2300126: Wallee support .025
+    3300000: ' Walk area '
+    3300002: Cube
+    3300004: Cutter
+    3300006: 'Ladder '
+    3300008: Ladder .001
+    3300010: Ladder .002
+    3300012: Ladder .003
+    3300014: Ladder .004
+    3300016: Ladder .005
+    3300018: Ladder .006
+    3300020: Ladder .007
+    3300022: Ladder .008
+    3300024: Ladder .009
+    3300026: Ladder .010
+    3300028: Ladder .011
+    3300030: Ladder .012
+    3300032: Ladder .013
+    3300034: Ladder .014
+    3300036: Ladder .015
+    3300038: Ladder .016
+    3300040: 'legs '
+    3300042: legs .001
+    3300044: legs .002
+    3300046: legs .003
+    3300048: 'Shed support '
+    3300050: Shed support .001
+    3300052: Shed support .002
+    3300054: Shed support .003
+    3300056: 'Support  Top '
+    3300058: Support  Top .001
+    3300060: Support  Top .002
+    3300062: top .001
+    3300064: 'wall E '
+    3300066: wall E .001
+    3300068: wall E .002
+    3300070: wall E .003
+    3300072: wall E .004
+    3300074: wall E .005
+    3300076: 'Wallee support '
+    3300078: Wallee support .001
+    3300080: Wallee support .002
+    3300082: Wallee support .003
+    3300084: Wallee support .004
+    3300086: Wallee support .005
+    3300088: Wallee support .006
+    3300090: Wallee support .007
+    3300092: Wallee support .008
+    3300094: Wallee support .009
+    3300096: Wallee support .010
+    3300098: Wallee support .011
+    3300100: Wallee support .012
+    3300102: Wallee support .013
+    3300104: Wallee support .014
+    3300106: Wallee support .015
+    3300108: Wallee support .016
+    3300110: Wallee support .017
+    3300112: Wallee support .018
+    3300114: Wallee support .019
+    3300116: Wallee support .020
+    3300118: Wallee support .021
+    3300120: Wallee support .022
+    3300122: Wallee support .023
+    3300124: Wallee support .024
+    3300126: Wallee support .025
+    4300000: Ladder .015
+    4300002: Ladder .014
+    4300004: Ladder .013
+    4300006: Ladder .012
+    4300008: Ladder .011
+    4300010: Ladder .010
+    4300012: Ladder .009
+    4300014: Ladder .008
+    4300016: Ladder .007
+    4300018: Ladder .006
+    4300020: Ladder .005
+    4300022: Ladder .004
+    4300024: Ladder .003
+    4300026: Ladder .002
+    4300028: Wallee support .025
+    4300030: Wallee support .024
+    4300032: Wallee support .023
+    4300034: Wallee support .022
+    4300036: Wallee support .021
+    4300038: Wallee support .020
+    4300040: Wallee support .019
+    4300042: Wallee support .018
+    4300044: Wallee support .017
+    4300046: Wallee support .016
+    4300048: Wallee support .015
+    4300050: Wallee support .014
+    4300052: Wallee support .013
+    4300054: Wallee support .012
+    4300056: Support  Top .002
+    4300058: Support  Top .001
+    4300060: Ladder .016
+    4300062: Ladder .001
+    4300064: 'Ladder '
+    4300066: Cutter
+    4300068: ' Walk area '
+    4300070: wall E .005
+    4300072: Cube
+    4300074: Wallee support .011
+    4300076: Wallee support .010
+    4300078: Wallee support .009
+    4300080: Wallee support .008
+    4300082: wall E .004
+    4300084: top .001
+    4300086: Wallee support .007
+    4300088: Wallee support .006
+    4300090: Wallee support .005
+    4300092: Wallee support .004
+    4300094: Wallee support .003
+    4300096: Wallee support .002
+    4300098: Wallee support .001
+    4300100: 'Wallee support '
+    4300102: wall E .003
+    4300104: wall E .002
+    4300106: wall E .001
+    4300108: 'wall E '
+    4300110: Shed support .002
+    4300112: Shed support .003
+    4300114: Shed support .001
+    4300116: 'Shed support '
+    4300118: legs .002
+    4300120: legs .003
+    4300122: legs .001
+    4300124: 'legs '
+    4300126: 'Support  Top '
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood_Texture_A
+    second: {fileID: 2100000, guid: c436338f8817d4e4c9848b099cbf9904, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood_Texture_C
+    second: {fileID: 2100000, guid: 31c1eb889bd750049b6611c28cc3fcb0, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
