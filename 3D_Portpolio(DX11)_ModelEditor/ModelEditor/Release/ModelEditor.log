@@ -1,0 +1,47 @@
+﻿  FbxData.cpp
+  FbxLoader.cpp
+  FbxUtility.cpp
+  ModelData.cpp
+  Floor.cpp
+  Sky.cpp
+  ExeEnvironment.cpp
+  ExeGui.cpp
+  ExeModel.cpp
+  Main.cpp
+  ModelAnimation.cpp
+  ModelBone.cpp
+  ModelKeyFrame.cpp
+  ModelMaterial.cpp
+  ModelMesh.cpp
+  Model.cpp
+  ModelAnimationController.cpp
+  ModelPart.cpp
+  ModelSkeleton.cpp
+  Program.cpp
+  RenderTarget.cpp
+  Shader.cpp
+  States.cpp
+  VertexLayouts.cpp
+Renders\RenderTarget.cpp(56): error C2653: 'BackBuffer': 클래스 또는 네임스페이스 이름이 아닙니다.
+Renders\RenderTarget.cpp(56): error C3861: 'Get': 식별자를 찾을 수 없습니다.
+Renders\RenderTarget.cpp(56): error C2227: '->GetDepthView' 왼쪽은 클래스/구조체/공용 구조체/제네릭 형식을 가리켜야 합니다.
+  Renders\RenderTarget.cpp(56): note: 'unknown-type' 형식입니다.
+Renders\RenderTarget.cpp(56): error C2660: 'ID3D11DeviceContext::OMSetRenderTargets': 함수는 2개의 매개 변수를 사용하지 않습니다.
+Renders\RenderTarget.cpp(64): error C2653: 'BackBuffer': 클래스 또는 네임스페이스 이름이 아닙니다.
+Renders\RenderTarget.cpp(64): error C3861: 'Get': 식별자를 찾을 수 없습니다.
+Renders\RenderTarget.cpp(64): error C2227: '->GetDepthView' 왼쪽은 클래스/구조체/공용 구조체/제네릭 형식을 가리켜야 합니다.
+  Renders\RenderTarget.cpp(64): note: 'unknown-type' 형식입니다.
+  D3D.cpp
+  Keyboard.cpp
+  Mouse.cpp
+  Time.cpp
+  Window.cpp
+  BinaryFile.cpp
+  Path.cpp
+  String.cpp
+  Camera.cpp
+  FirstPerson.cpp
+  OrbitalCamera.cpp
+  Orthographic.cpp
+  Perspective.cpp
+  Viewport.cpp

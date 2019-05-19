@@ -1,0 +1,295 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="Environment\Sky.cpp">
+      <Filter>Environment</Filter>
+    </ClCompile>
+    <ClCompile Include="Renders\States.cpp">
+      <Filter>Renders</Filter>
+    </ClCompile>
+    <ClCompile Include="Renders\VertexLayouts.cpp">
+      <Filter>Renders</Filter>
+    </ClCompile>
+    <ClCompile Include="Renders\RenderTarget.cpp">
+      <Filter>Renders</Filter>
+    </ClCompile>
+    <ClCompile Include="Renders\Shader.cpp">
+      <Filter>Renders</Filter>
+    </ClCompile>
+    <ClCompile Include="Systems\Time.cpp">
+      <Filter>Systems</Filter>
+    </ClCompile>
+    <ClCompile Include="Systems\Window.cpp">
+      <Filter>Systems</Filter>
+    </ClCompile>
+    <ClCompile Include="Systems\D3D.cpp">
+      <Filter>Systems</Filter>
+    </ClCompile>
+    <ClCompile Include="Systems\Keyboard.cpp">
+      <Filter>Systems</Filter>
+    </ClCompile>
+    <ClCompile Include="Systems\Mouse.cpp">
+      <Filter>Systems</Filter>
+    </ClCompile>
+    <ClCompile Include="Utilities\String.cpp">
+      <Filter>Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="Utilities\BinaryFile.cpp">
+      <Filter>Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="Viewer\Camera.cpp">
+      <Filter>Viewer\Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="Viewer\FirstPerson.cpp">
+      <Filter>Viewer\Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="Viewer\Perspective.cpp">
+      <Filter>Viewer\View</Filter>
+    </ClCompile>
+    <ClCompile Include="Viewer\Viewport.cpp">
+      <Filter>Viewer\View</Filter>
+    </ClCompile>
+    <ClCompile Include="Viewer\Orthographic.cpp">
+      <Filter>Viewer\View</Filter>
+    </ClCompile>
+    <ClCompile Include="Executes\ExeEnvironment.cpp">
+      <Filter>Executes</Filter>
+    </ClCompile>
+    <ClCompile Include="Executes\ExeModel.cpp">
+      <Filter>Executes</Filter>
+    </ClCompile>
+    <ClCompile Include="Program.cpp" />
+    <ClCompile Include="BinExport\FbxUtility.cpp">
+      <Filter>BinExport</Filter>
+    </ClCompile>
+    <ClCompile Include="BinExport\ModelData.cpp">
+      <Filter>BinExport</Filter>
+    </ClCompile>
+    <ClCompile Include="BinExport\FbxData.cpp">
+      <Filter>BinExport</Filter>
+    </ClCompile>
+    <ClCompile Include="BinExport\FbxLoader.cpp">
+      <Filter>BinExport</Filter>
+    </ClCompile>
+    <ClCompile Include="Model\ModelPart.cpp">
+      <Filter>Model</Filter>
+    </ClCompile>
+    <ClCompile Include="Model\ModelSkeleton.cpp">
+      <Filter>Model</Filter>
+    </ClCompile>
+    <ClCompile Include="Model\Model.cpp">
+      <Filter>Model</Filter>
+    </ClCompile>
+    <ClCompile Include="Model\ModelAnimationController.cpp">
+      <Filter>Model</Filter>
+    </ClCompile>
+    <ClCompile Include="Executes\ExeGui.cpp">
+      <Filter>Executes</Filter>
+    </ClCompile>
+    <ClCompile Include="Utilities\Path.cpp">
+      <Filter>Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="Model\Elements\ModelAnimation.cpp">
+      <Filter>Model\Elements</Filter>
+    </ClCompile>
+    <ClCompile Include="Model\Elements\ModelBone.cpp">
+      <Filter>Model\Elements</Filter>
+    </ClCompile>
+    <ClCompile Include="Model\Elements\ModelKeyFrame.cpp">
+      <Filter>Model\Elements</Filter>
+    </ClCompile>
+    <ClCompile Include="Model\Elements\ModelMaterial.cpp">
+      <Filter>Model\Elements</Filter>
+    </ClCompile>
+    <ClCompile Include="Model\Elements\ModelMesh.cpp">
+      <Filter>Model\Elements</Filter>
+    </ClCompile>
+    <ClCompile Include="Environment\Floor.cpp">
+      <Filter>Environment</Filter>
+    </ClCompile>
+    <ClCompile Include="Viewer\OrbitalCamera.cpp">
+      <Filter>Viewer\Camera</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="Environment\Sky.h">
+      <Filter>Environment</Filter>
+    </ClInclude>
+    <ClInclude Include="Executes\Execute.h">
+      <Filter>Executes</Filter>
+    </ClInclude>
+    <ClInclude Include="Renders\ShaderBuffer.h">
+      <Filter>Renders</Filter>
+    </ClInclude>
+    <ClInclude Include="Renders\States.h">
+      <Filter>Renders</Filter>
+    </ClInclude>
+    <ClInclude Include="Renders\VertexLayouts.h">
+      <Filter>Renders</Filter>
+    </ClInclude>
+    <ClInclude Include="Renders\GlobalBuffers.h">
+      <Filter>Renders</Filter>
+    </ClInclude>
+    <ClInclude Include="Renders\RenderTarget.h">
+      <Filter>Renders</Filter>
+    </ClInclude>
+    <ClInclude Include="Renders\Shader.h">
+      <Filter>Renders</Filter>
+    </ClInclude>
+    <ClInclude Include="Systems\Mouse.h">
+      <Filter>Systems</Filter>
+    </ClInclude>
+    <ClInclude Include="Systems\Time.h">
+      <Filter>Systems</Filter>
+    </ClInclude>
+    <ClInclude Include="Systems\Window.h">
+      <Filter>Systems</Filter>
+    </ClInclude>
+    <ClInclude Include="Systems\D3D.h">
+      <Filter>Systems</Filter>
+    </ClInclude>
+    <ClInclude Include="Systems\Keyboard.h">
+      <Filter>Systems</Filter>
+    </ClInclude>
+    <ClInclude Include="Utilities\String.h">
+      <Filter>Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="Utilities\BinaryFile.h">
+      <Filter>Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="Viewer\Camera.h">
+      <Filter>Viewer\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="Viewer\FirstPerson.h">
+      <Filter>Viewer\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="Viewer\Viewport.h">
+      <Filter>Viewer\View</Filter>
+    </ClInclude>
+    <ClInclude Include="Viewer\Orthographic.h">
+      <Filter>Viewer\View</Filter>
+    </ClInclude>
+    <ClInclude Include="Viewer\Perspective.h">
+      <Filter>Viewer\View</Filter>
+    </ClInclude>
+    <ClInclude Include="Executes\ExeEnvironment.h">
+      <Filter>Executes</Filter>
+    </ClInclude>
+    <ClInclude Include="Executes\ExeModel.h">
+      <Filter>Executes</Filter>
+    </ClInclude>
+    <ClInclude Include="Executes\GuiSettings.h">
+      <Filter>Executes</Filter>
+    </ClInclude>
+    <ClInclude Include="Program.h" />
+    <ClInclude Include="BinExport\FbxUtility.h">
+      <Filter>BinExport</Filter>
+    </ClInclude>
+    <ClInclude Include="BinExport\ModelData.h">
+      <Filter>BinExport</Filter>
+    </ClInclude>
+    <ClInclude Include="BinExport\FbxData.h">
+      <Filter>BinExport</Filter>
+    </ClInclude>
+    <ClInclude Include="BinExport\FbxLoader.h">
+      <Filter>BinExport</Filter>
+    </ClInclude>
+    <ClInclude Include="Model\ModelPart.h">
+      <Filter>Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Model\ModelSkeleton.h">
+      <Filter>Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Model\Model.h">
+      <Filter>Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Model\ModelAnimationController.h">
+      <Filter>Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Executes\ExeGui.h">
+      <Filter>Executes</Filter>
+    </ClInclude>
+    <ClInclude Include="Utilities\Path.h">
+      <Filter>Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="Model\Buffer\ModelBuffer.h">
+      <Filter>Model\Buffer</Filter>
+    </ClInclude>
+    <ClInclude Include="Model\Elements\ModelAnimation.h">
+      <Filter>Model\Elements</Filter>
+    </ClInclude>
+    <ClInclude Include="Model\Elements\ModelBone.h">
+      <Filter>Model\Elements</Filter>
+    </ClInclude>
+    <ClInclude Include="Model\Elements\ModelKeyFrame.h">
+      <Filter>Model\Elements</Filter>
+    </ClInclude>
+    <ClInclude Include="Model\Elements\ModelMaterial.h">
+      <Filter>Model\Elements</Filter>
+    </ClInclude>
+    <ClInclude Include="Model\Elements\ModelMesh.h">
+      <Filter>Model\Elements</Filter>
+    </ClInclude>
+    <ClInclude Include="Environment\Floor.h">
+      <Filter>Environment</Filter>
+    </ClInclude>
+    <ClInclude Include="Viewer\OrbitalCamera.h">
+      <Filter>Viewer\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="Model\Gizmos\GizmosSphere.h">
+      <Filter>Model\Gizmos</Filter>
+    </ClInclude>
+    <ClInclude Include="Model\Gizmos\GizmosCapsule.h">
+      <Filter>Model\Gizmos</Filter>
+    </ClInclude>
+    <ClInclude Include="Model\Gizmos\Gizmos.h">
+      <Filter>Model\Gizmos</Filter>
+    </ClInclude>
+    <ClInclude Include="Model\Gizmos\GizmosBuffer.h">
+      <Filter>Model\Gizmos</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Environment">
+      <UniqueIdentifier>{5613a10d-4085-4f58-8ee8-bd3579495a9e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Executes">
+      <UniqueIdentifier>{44c15cce-ed7c-4047-ab8e-f1635064071c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Renders">
+      <UniqueIdentifier>{5be0f9c7-b904-4b82-820a-77e3eb6f12d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems">
+      <UniqueIdentifier>{9c469bf1-057e-4609-ae4d-839800a066a9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Utilities">
+      <UniqueIdentifier>{b2508bbd-a7c6-4233-84af-20192f5f2b54}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Viewer">
+      <UniqueIdentifier>{d20a44cf-42aa-4551-9ca7-b06dd5ced8cc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Viewer\Camera">
+      <UniqueIdentifier>{061b6b88-8426-40c2-bff1-8453c344d21c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Viewer\View">
+      <UniqueIdentifier>{997091fd-7a68-4383-8233-cdf7b74ebe92}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BinExport">
+      <UniqueIdentifier>{0a30bde9-7095-462d-8108-262fa2e8f360}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Model">
+      <UniqueIdentifier>{bc5add31-240c-4bc6-bf1c-8b897b2a83b6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Model\Buffer">
+      <UniqueIdentifier>{568a2ccb-1715-4244-82f5-6198320a4f23}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Model\Elements">
+      <UniqueIdentifier>{dce3ea39-c699-4da4-9e26-e0e3a02d3abc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Model\Gizmos">
+      <UniqueIdentifier>{d80102cd-149c-46af-929c-3b9e12345ab6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
